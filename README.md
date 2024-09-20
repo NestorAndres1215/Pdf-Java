@@ -1,4 +1,4 @@
-**Generador de PDF en Java
+# Generador de PDF en Java
 
 Esta aplicación Java utiliza Apache PDFBox para crear un documento PDF que incluye una tabla de alumnos con sus IDs, nombres y apellidos.
 
